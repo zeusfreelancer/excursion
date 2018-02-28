@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+    text-align: center;
+    
+}
+h1,h3.header{
+    color: white;
+    font-family: verdana;
+    font-weight: 700;
+    font-size: 63px;
+    letter-spacing: normal;
+    
+}
+.download{
+    color: aquamarine;
+    font-size: 25px;
+    cursor: pointer;
+    text-decoration: underline;
+}
+.excursion{
+    color: grey;
+    font-size: 21px;
+    font-family: verdana;   
+}
+.footer{
+    text-align: right;
+}
